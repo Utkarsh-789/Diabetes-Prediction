@@ -1,6 +1,7 @@
 # Diabetes-Prediction-using-the-Machine-Lerning
 
-![Latest-news-a-new-ear-for-diabetes-1024x683](https://user-images.githubusercontent.com/106006755/225203103-4b295d57-497c-4385-aa75-3798e4f8c310.jpeg)
+![Homepage Screenshot](diabetespred.webp)
+
 
 Diabetes, is a group of metabolic disorders in which there are high blood sugar levels over a prolonged period. Symptoms of high blood sugar include frequent urination, increased thirst, and increased hunger. If left untreated, diabetes can cause many complications. Acute complications can include diabetic ketoacidosis, hyperosmolar hyperglycemic state, or death. Serious long-term complications include cardiovascular disease, stroke, chronic kidney disease, foot ulcers, and damage to the eyes.
 
